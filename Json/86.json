@@ -1,0 +1,16 @@
+{
+    "name": "RobotTPe 086",
+    "description": "Welcome to our store. Here you can buy a lot of the hottest NFTs",
+    "image_url": "https://raw.githubusercontent.com/cuong995qb/RobotTPe/master/RobotTPe/86.jpg",
+    "attributes": [
+        {
+          "trait_type": "background", 
+          "value": "orange"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 25102021
+        }        
+      ]
+}
